@@ -5,8 +5,8 @@ module.exports = {
   },
   root: true,
   extends: [
-    "plugin:vue/vue3-essential",
     "eslint:recommended",
+    "plugin:vue/vue3-essential",
     "@nuxtjs/eslint-config-typescript",
     "plugin:prettier/recommended",
   ],
