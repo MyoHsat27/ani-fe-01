@@ -1,5 +1,5 @@
 <template>
-  <div>Hello</div>
+  <NuxtLayout><NuxtPage /></NuxtLayout>
 </template>
 
-<script></script>
+<script lang="ts"></script>
